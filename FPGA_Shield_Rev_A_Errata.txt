@@ -1,0 +1,3 @@
+Added wire mod, U1 pin 74 (suspend) to ground, ties suspend in a known (deasserted) state
+Cut trace, U1 pin 123 to J2 pin 18, moves PORT2_0 from a dedicated input to an IO
+Added wire mod, U1 pin 121 to J2 pin 18, moves PORT2_0 from a dedicated input to an IO
